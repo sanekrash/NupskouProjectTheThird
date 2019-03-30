@@ -1,9 +1,9 @@
 ﻿namespace NupskouProjectTheThird
 {
-  internal class Program
-  {
-    public static void Main(string[] args)
+    internal class Program
     {
+        public static void Main(string[] args)
+        {
+        }
     }
-  }
 }
