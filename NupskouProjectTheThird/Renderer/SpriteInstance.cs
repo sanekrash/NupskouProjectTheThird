@@ -18,7 +18,7 @@ namespace NupskouProjectTheThird.Renderer
         public SpriteInstance (Sprite sprite) {
             _texture         = sprite.Texture;
             _sourceRectangle = sprite.SourceRect;
-            Color            = this.Color.White;
+            Color            = Color.White;
             _origin          = sprite.Origin;
             Scale            = Vector2.One;
             _scaleCoeff      = sprite.ScaleCoeff;
