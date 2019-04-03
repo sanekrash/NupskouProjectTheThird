@@ -44,6 +44,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Renderer\AbstractLayer.cs" />
+    <Compile Include="Renderer\Layer.cs" />
+    <Compile Include="Renderer\Renderer.cs" />
+    <Compile Include="Renderer\Sprite.cs" />
+    <Compile Include="Renderer\SpriteInstance.cs" />
+    <Compile Include="Renderer\TextLayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
